@@ -1,0 +1,115 @@
+body {
+    background-color: black;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+b {
+    color: aqua;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+}
+#imagem-1 {
+    width: 30%;
+    border: 10px solid white;
+}
+#imagem-2 {
+    width: 30%;
+    border: 10px solid white;
+
+}
+#vinicyus {
+    margin-top: 100px;
+}
+
+#mistas {
+    margin-top: 100px;
+}
+#interiores {
+    margin-top: 60px;
+}
+#imagem-3 {
+    width: 30%;
+    border: 10px solid white; 
+}
+#imagem-4 {
+    width: 30%;
+    border: 10px solid white; 
+}
+#imagem-5 {
+    width: 30%;
+    border: 10px solid white; 
+}
+#imagem-6 {
+    width: 30%;
+    border: 10px solid white; 
+}
+#imagem-7 {
+    width: 30%;
+    border: 10px solid white; 
+}
+#imagem-8 {
+    width: 30%;
+    border: 10px solid white; 
+}
+#imagem-9 {
+    width: 32%;
+    border: 10px solid white; 
+}
+#imagem-10 {
+    width: 31%;
+    border: 10px solid white; 
+}
+#imagem-11 {
+    width: 30%;
+    border: 10px solid white; 
+}
+#imagem-12 {
+    width: 29%;
+    border: 10px solid white; 
+}
+#imagem-13 {
+    width: 32%;
+    border: 10px solid white; 
+}
+#imagem-14 {
+    width: 29%;
+    border: 10px solid white; 
+}
+#imagem-15 {
+    width: 29%;
+    border: 10px solid white; 
+}
+h2 {
+    font-size: 30px;
+    color: aqua;
+    margin-top: 100px;
+    padding-left: 5%;
+
+}
+li{
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
+li::marker{
+    color: aqua;
+    content: "✔";
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    padding-left: 5%;
+}
+.teste{
+    margin-right: 60%;
+}
